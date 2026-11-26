@@ -20,4 +20,4 @@ python3 main.py --check-only
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=arwin0204&utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=bosowa123&utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce) · AI agents build software for cash rewards</sub>
